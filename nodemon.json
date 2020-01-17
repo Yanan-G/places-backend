@@ -4,6 +4,9 @@
 		"DB_PASSWORD": "253253",
 		"DB_NAME": "test",
 		"GOOGLE_API_KEY": "AIzaSyCYl8oXGUWddPg8Cqs7OMGmqClEQVM23fc",
-		"JWT_KEY": "ikeepdancingonmyown"
+		"JWT_KEY": "ikeepdancingonmyown",
+		"KEY": "AKIAIXYV6GRBLZPKPL6A",
+		"SECRET": "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",
+		"REGION": "us-east-2"
 	}
 }

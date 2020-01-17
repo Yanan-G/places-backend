@@ -2,9 +2,9 @@ const aws = require('aws-sdk')
 const multer = require('multer')
 const multerS3 = require('multer-s3')
 
-const secretAccessKey = process.env.secretAccessKey
-const accessKeyId = process.env.accessKeyId
-const region = process.env.region
+const secretAccessKey = process.env.SECRET
+const accessKeyId = process.env.KEY
+const region = process.env.REGION
 
 const s3 = new aws.S3({
 	accessKeyId,
