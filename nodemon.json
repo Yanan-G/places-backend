@@ -1,0 +1,9 @@
+{
+	"env": {
+		"DB_USER": "yanan",
+		"DB_PASSWORD": "253253",
+		"DB_NAME": "test",
+		"GOOGLE_API_KEY": "AIzaSyCYl8oXGUWddPg8Cqs7OMGmqClEQVM23fc",
+		"JWT_KEY": "ikeepdancingonmyown"
+	}
+}
